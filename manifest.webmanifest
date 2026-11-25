@@ -1,0 +1,25 @@
+{
+  "name": "Free Vestibular & Dizziness Screening",
+  "short_name": "Vestibular Kiosk",
+  "description": "Free vestibular and dizziness screening kiosk for Ivy Rehab Physical Therapy \u2013 Bala Cynwyd North.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#08121B",
+  "theme_color": "#0A1622",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
